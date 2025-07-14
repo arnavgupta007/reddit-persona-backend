@@ -80,8 +80,11 @@ Generate a .txt report in the output/ folder
 
 ### Make sure your environment variables are set either via .env file or system variables:
 REDDIT_CLIENT_ID=your_id
+
 REDDIT_CLIENT_SECRET=your_secret
+
 REDDIT_USER_AGENT=PersonaAnalyzer/1.0 by u/yourusername
+
 
 
 
