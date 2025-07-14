@@ -55,5 +55,35 @@ pip install -r requirements.txt
 
 python app.py
 
+
+---
+
+## 🧾 Alternative: Run Script Directly Without Frontend
+
+If you don't want to use the frontend or deploy it, you can run the analyzer directly from the command line.
+
+### ▶️ Run the Script Standalone
+In terminal run 
+python reddit_persona_analyzer.py
+
+## You’ll be prompted like this:
+
+Paste Reddit profile URL (or 'exit'): https://www.reddit.com/user/kojied/
+
+## ✅ The script will:
+
+Extract the username
+
+Analyze posts and comments
+
+Generate a .txt report in the output/ folder
+
+### Make sure your environment variables are set either via .env file or system variables:
+REDDIT_CLIENT_ID=your_id
+REDDIT_CLIENT_SECRET=your_secret
+REDDIT_USER_AGENT=PersonaAnalyzer/1.0 by u/yourusername
+
+
+
 ## Author
 Arnav Gupta
