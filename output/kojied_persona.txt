@@ -9,14 +9,14 @@ Comment Karma: 1823
 Activity Summary:
 - Total Posts: 31
 - Total Comments: 100
-- Average Post Score: 13.61
-- Average Comment Score: 12.66
+- Average Post Score: 10.48
+- Average Comment Score: 82.87
 
 Sentiment Analysis:
-- Overall Sentiment: 1.000
-- Positive: 0.136
-- Negative: 0.076
-- Neutral: 0.788
+- Overall Sentiment: 0.132
+- Positive: 0.105
+- Negative: 0.066
+- Neutral: 0.829
 
 Top Interests:
 - Sports: 14
@@ -33,30 +33,30 @@ Most Active Subreddits:
 - r/ManorLords: 9 posts/comments
 
 Personality Insights:
-- Mood: Generally positive and optimistic
-- Engagement Style: Highly interactive, prefers commenting over posting
+- Mood: Balanced emotional expression
+- Engagement: Highly interactive, prefers commenting over posting
 - Primary Interest: Primarily interested in sports
 
 Citations and Evidence:
-1. Comment in r/AskReddit (Score: 191)
+1. Comment in r/AskReddit (Score: 190)
    Content: Go to the fire station and stock up on axes. Then go to the hardware store and get a sledgehammer. Destroy the staircase to the second floor of the fire station so zombies can’t get to it.
 Stop by the
    Source: https://reddit.com/r/AskReddit/comments/1h8yia2/the_zombie_apocalypse_has_begun_whats_the_first/m0wmp5q/
 
-2. Comment in r/civ5 (Score: 165)
+2. Comment in r/civ5 (Score: 164)
    Content: Hermit with internal trade routes, max rationalism, work every specialist slot, bulb scientists, yeet off to space.
    Source: https://reddit.com/r/civ5/comments/1h61fr0/on_a_post_about_trade_tariffs/m0a6ok5/
 
-3. Post in r/VisionPro (Score: 149)
+3. Post in r/VisionPro (Score: 146)
    Content: Spacial tours with 3D map and 360˚ video 
    Source: https://reddit.com/r/VisionPro/comments/1b4yi15/spacial_tours_with_3d_map_and_360_video/
 
-4. Post in r/VisionPro (Score: 92)
+4. Post in r/VisionPro (Score: 89)
    Content: Watching Edgerunners on the moon feels Thank you u/overpaidengineer for the inspo
    Source: https://reddit.com/r/VisionPro/comments/1alx270/watching_edgerunners_on_the_moon_feels/
 
-5. Comment in r/AskReddit (Score: 77)
-   Content: Shhhh
-   Source: https://reddit.com/r/AskReddit/comments/1g8uq20/whats_an_app_thats_actually_worth_paying_for/lt30agt/
+5. Comment in r/OnePiece (Score: 78)
+   Content: Calm down he’s talking about the cloud making the shower
+   Source: https://reddit.com/r/OnePiece/comments/1hoop3e/what_did_chopper_say/m4b9nvl/
 
-Analysis completed on: 2025-07-14 13:57:44
+Analysis completed on: 2025-07-14 15:10:37
