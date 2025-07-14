@@ -28,9 +28,13 @@ The backend uses:
 backend/
 │
 ├── app.py # Flask API
+
 ├── reddit_persona_analyzer.py # Main analysis engine
+
 ├── requirements.txt # Dependencies
+
 ├── .env # (Optional) Local environment vars
+
 └── output/ # Where reports are saved
 
 ## 🔐 Environment Variables (Render / .env)
